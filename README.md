@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Привет, я Давид! 👋</h1>
 
-<!--
-**ProstoDavid/ProstoDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com" alt="Просмотры" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Начинающий разработчик • Хожу на кружок программирования • Укротитель Git и GitLab 🚀</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Мой стек технологий и инструменты:
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="GitLab" />
+  <img src="https://shields.io" alt="Python" />
+</p>
+
+---
+
+### 📊 Моя статистика GitHub:
+<p align="center">
+  <img src="https://vercel.app" alt="Статистика Давида" width="48%" />
+  <img src="https://vercel.app" alt="Языки Давида" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Код работает? Не трогай!" 💻</i>
+</p>
